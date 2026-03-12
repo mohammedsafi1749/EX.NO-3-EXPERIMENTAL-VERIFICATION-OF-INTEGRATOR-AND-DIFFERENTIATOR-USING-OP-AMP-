@@ -71,6 +71,9 @@ We get , R1 =	and hence Rf =
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="1457" height="819" alt="image" src="https://github.com/user-attachments/assets/1fc5ffd3-2b99-4cdf-8833-25214071be14" />
+
+<img width="1919" height="1058" alt="image" src="https://github.com/user-attachments/assets/8b21018c-cd13-4b46-9ea8-d72c2a255123" />
 
 ---
 **DATE:**  
