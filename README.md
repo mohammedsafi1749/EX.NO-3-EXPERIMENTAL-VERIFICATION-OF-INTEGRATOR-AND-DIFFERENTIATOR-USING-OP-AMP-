@@ -67,13 +67,16 @@ We get , R1 =	and hence Rf =
 | Square Wave    |                          |                             |                           |                           |                              |                            |
 		
 
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/246e8717-ffeb-4f41-a76e-35d411a9b5e3" />
+
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1457" height="819" alt="image" src="https://github.com/user-attachments/assets/1fc5ffd3-2b99-4cdf-8833-25214071be14" />
 
-<img width="1919" height="1058" alt="image" src="https://github.com/user-attachments/assets/8b21018c-cd13-4b46-9ea8-d72c2a255123" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/8b21018c-cd13-4b46-9ea8-d72c2a255123" />
+
+<img width="845" height="1127" alt="image" src="https://github.com/user-attachments/assets/47133b0c-e1e4-4fc3-b76b-2e4cf77a4972" />
 
 ---
 **DATE:**  
