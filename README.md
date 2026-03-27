@@ -161,11 +161,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 | Square Wave    |                          |                             |                           |                           |                              |                            |
 
 
-<img width="1172" height="1562" alt="image" src="https://github.com/user-attachments/assets/f317bf3a-1fa9-4325-9bb1-426f3379aa1d" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/f317bf3a-1fa9-4325-9bb1-426f3379aa1d" />
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="861" height="1147" alt="image" src="https://github.com/user-attachments/assets/06ce7ba9-786e-4c78-a3ba-2389db02cc5c" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/06ce7ba9-786e-4c78-a3ba-2389db02cc5c" />
 
 
 <img width="1916" height="1035" alt="image" src="https://github.com/user-attachments/assets/3d66c59d-1bee-42a8-88fe-8bd7531f4059" />
