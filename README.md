@@ -33,12 +33,15 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 T ≥ Rf Cf
 
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
-CIRCUIT DIAGRAM
+
+
 ## CIRCUIT DIAGRAM
+
 <img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
 
 
 ## MODEL GRAPH
+
 <img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
 
 <img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
@@ -172,11 +175,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 <img width="1916" height="1035" alt="image" src="https://github.com/user-attachments/assets/3d66c59d-1bee-42a8-88fe-8bd7531f4059" />
 
+
 RESULT:
 
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
 
-<img width="1427" height="1903" alt="image" src="https://github.com/user-attachments/assets/c77b6f35-9e5c-4c2b-b314-379d62176bae" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/c77b6f35-9e5c-4c2b-b314-379d62176bae" />
 
 ---
 
