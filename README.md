@@ -78,8 +78,8 @@ We get , R1 =	and hence Rf =
 <img width="845" height="1127" alt="image" src="https://github.com/user-attachments/assets/47133b0c-e1e4-4fc3-b76b-2e4cf77a4972" />
 
 ---
-**DATE:**  
-             3 B DIFFERENTIATOR
+**DATE:**  24/02/2026
+             ## 3 B DIFFERENTIATOR
 ---
 
 ## AIM
