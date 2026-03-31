@@ -79,7 +79,7 @@ We get , R1 =	and hence Rf =
 
 ---
 **DATE:**  24/02/2026
-             ## 3 B DIFFERENTIATOR
+## 3 B DIFFERENTIATOR
 ---
 
 ## AIM
