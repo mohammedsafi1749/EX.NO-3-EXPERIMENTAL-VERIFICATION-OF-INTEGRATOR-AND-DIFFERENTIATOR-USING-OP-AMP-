@@ -1,6 +1,6 @@
 ## **EX.NO:** 3.  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
             
-**DATE:**  24/02/2026
+## DATE: 24/02/2026
 ## 3A INTEGRATOR
 ---
 
@@ -81,7 +81,7 @@ We get , R1 =	and hence Rf =
 <img width="845" height="1127" alt="image" src="https://github.com/user-attachments/assets/47133b0c-e1e4-4fc3-b76b-2e4cf77a4972" />
 
 ---
-**DATE:**  24/02/2026
+## DATE: 24/02/2026
 ## 3 B DIFFERENTIATOR
 ---
 
@@ -176,7 +176,7 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 <img width="1916" height="1035" alt="image" src="https://github.com/user-attachments/assets/3d66c59d-1bee-42a8-88fe-8bd7531f4059" />
 
 
-RESULT:
+## RESULT:
 
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
 
