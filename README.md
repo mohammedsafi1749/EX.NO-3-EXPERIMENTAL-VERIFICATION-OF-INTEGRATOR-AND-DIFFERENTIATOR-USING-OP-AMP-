@@ -103,6 +103,7 @@ To design and test the performance of integrator and differentiator circuits usi
 ---
 
 ## THEORY
+
 DIFFEERENTIATOR:
 The differentiator circuit performs the mathematical operation of differentiation; that is, the output waveform is the derivative of the input waveform. The differentiator may be constructed from a basic inverting amplifier if an input resistor R1 is replaced by a capacitor C1 . The expression for the output voltage is given as,
 Vo = - Rf C1 ( dVi /dt )
@@ -114,6 +115,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
+
 <img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
 
 
@@ -123,9 +125,9 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 (i)	 SINE WAVE INPUT
 
 <img width="687" height="479" alt="image" src="https://github.com/user-attachments/assets/c89226c0-c2bb-4544-b355-27fc0d923f1a" />
+
 ---
 
-AND
 
 (ii) SQUARE WAVE INPUT
 
@@ -154,6 +156,7 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
+ 
 | Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
 |----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
 | Sine Wave      |                          |                             |                           |                           |                              |                            |
@@ -170,7 +173,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 <img width="1916" height="1035" alt="image" src="https://github.com/user-attachments/assets/3d66c59d-1bee-42a8-88fe-8bd7531f4059" />
 
 RESULT:
+
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
+
+<img width="1427" height="1903" alt="image" src="https://github.com/user-attachments/assets/c77b6f35-9e5c-4c2b-b314-379d62176bae" />
+
 ---
 
 
